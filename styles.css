@@ -14,7 +14,9 @@ body{
     display:flex;
     flex-direction: column;
     background-color: #f4f4f4;
+    /*always on main */
     justify-content: space-around;
+    /* always on cross axis */
     align-items:start;
 }
 
