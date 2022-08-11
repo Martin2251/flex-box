@@ -10,12 +10,12 @@ body{
 }
 
 .flex-container{
-    height:400px;
+    height:500px;
     display:flex;
     flex-direction: column;
     background-color: #f4f4f4;
     /*always on main */
-    justify-content: space-around;
+    justify-content: end;
     /* always on cross axis */
     align-items:start;
 }
